@@ -1,0 +1,44 @@
+{
+  "id": "LN-0001",
+  "type": "LN",
+  "title": "教导有效，何以识别先知？",
+  "title_en": null,
+  "abstract": "安萨里如何从教导的效力辨认先知？这则札记比较《迷途指津》《圣学复苏》等文本，考察实践经验、历史传述与知识承继各能说明什么。",
+  "abstract_en": "A reading of al-Ghazālī on what the efficacy of a teaching can establish about its teacher, and how the question changes when others inherit that knowledge.",
+  "areas": [
+    "religious-studies",
+    "philosophy"
+  ],
+  "keywords": [
+    "安萨里",
+    "先知性",
+    "宗教认识论",
+    "知识承继"
+  ],
+  "languages": [
+    "zh-CN"
+  ],
+  "first_published": "2026-11-16",
+  "last_revised": "2026-11-16",
+  "version": "0.2",
+  "status": "in-progress",
+  "peer_review": "not-peer-reviewed",
+  "related": [],
+  "publication": null,
+  "path": "ghazali.html",
+  "release": "public",
+  "history": [
+    {
+      "version": "0.1",
+      "date": "2026-11-16",
+      "note": "初版阅读札记。",
+      "snapshot": "https://github.com/raylee-ai/raylee-ai.github.io/blob/9e42f230eba072b1f481a7ecc5a3677550308fcb/ghazali.html"
+    },
+    {
+      "version": "0.2",
+      "date": "2026-11-16",
+      "note": "重写论证，补入使命认证、条件性辨认和来源范围。原文保留详细修订说明。",
+      "snapshot": "https://github.com/raylee-ai/raylee-ai.github.io/blob/68a4c63bbb17b49d3ad88f01c319cebf09c1a49e/ghazali.html"
+    }
+  ]
+}
